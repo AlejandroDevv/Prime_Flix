@@ -11,7 +11,7 @@ O projeto utiliza uma API para buscar informações sobre filmes e apresenta os 
 - API de filmes
 - CSS
 
-- ## ✨ Funcionalidades
+  ## ✨ Funcionalidades
 
 - 🎬 Listagem de filmes
 - 🔎 Busca e consulta de filmes
@@ -19,7 +19,7 @@ O projeto utiliza uma API para buscar informações sobre filmes e apresenta os 
 - 🔄 Consumo de dados através de API
 - 📱 Interface responsiva
 
-- ## 🌐 Demonstração
+  ## 🌐 Demonstração
 
 🔗 [Acessar aplicação](https://prime-flix-theta.vercel.app/)
 
@@ -39,9 +39,15 @@ O projeto utiliza uma API para buscar informações sobre filmes e apresenta os 
 git clone https://github.com/AlejandroDevv/Prime_Flix.git
 cd Prime_Flix
 npm install
+```
+
+### Executar o projeto
+
+```bash
 npm start
 ```
-Após iniciar o servidor, acesse http://localhost:3000 no navegador.
+
+**Após iniciar o servidor, acesse http://localhost:3000 no navegador.**
 
 ## 👨‍💻 Autor
 
