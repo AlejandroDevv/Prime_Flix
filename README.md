@@ -53,4 +53,4 @@ O projeto abrirá em `http://localhost:3000`.
 Neste projeto pratiquei consumo de API com Axios, rotas dinâmicas com React Router, uso de variáveis de ambiente para proteger a chave da API e deploy na Vercel. [Ajuste conforme o que você aprendeu de verdade.]
 
 ## 📫 Contato
-[LinkedIn](https://www.linkedin.com/in/alejandro-oliveira/) · [E-mail](alejandro-oliveira@live.com)
+[LinkedIn](https://www.linkedin.com/in/alejandro-oliveira/) · [E-mail](mailto:alejandro-oliveira@live.com)
