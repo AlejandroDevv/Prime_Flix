@@ -15,7 +15,7 @@ function Filme(){
         async function loadFilme() {
             await api.get(`/movie/${id}` , {
                 params:{
-                    api_key: "5e0d83d837d294a1d759c7ea46f7cf13",
+                    api_key: process.env.REACT_APP_API_KEY,
                     language: "pt-BR",
                 }
             })
