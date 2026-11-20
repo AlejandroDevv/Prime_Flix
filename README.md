@@ -2,9 +2,9 @@
 
 Aplicação web para acompanhar os filmes em cartaz, ver detalhes e trailers e salvar seus filmes favoritos. Desenvolvida com React.
 
-🔗 **[link-do-deploy](https://github.com/AlejandroDevv/Prime_Flix)**
+🔗 **[link-do-deploy](https://prime-flix-theta.vercel.app/)**
 
-![Tela inicial do Prime Flix](<img width="1920" height="1026" alt="Captura de tela 2026-05-10 193742" src="https://github.com/user-attachments/assets/4212b468-a4d4-4ce0-b63c-d53c056872ff" />)
+![Tela inicial do Prime Flix]<img width="1920" height="1026" alt="Captura de tela 2026-05-10 193742" src="https://github.com/user-attachments/assets/4212b468-a4d4-4ce0-b63c-d53c056872ff" />
 
 ## ✨ Funcionalidades
 - Listagem dos filmes em cartaz, com dados em português
